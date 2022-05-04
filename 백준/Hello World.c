@@ -1,5 +1,5 @@
 // 2557
-// Hello World! Ãâ·Â
+// Hello World! ì¶œë ¥
 #include <stdio.h>
 
 int main()
