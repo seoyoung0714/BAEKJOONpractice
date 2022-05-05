@@ -1,11 +1,11 @@
 // 9498
-// ½ÃÇè Á¡¼ö¸¦ ÀÔ·Â¹Þ¾Æ 90 ~ 100Á¡Àº A, 80 ~ 89Á¡Àº B, 70 ~ 79Á¡Àº C, 60 ~ 69Á¡Àº D, ³ª¸ÓÁö Á¡¼ö´Â F¸¦ Ãâ·ÂÇÏ´Â ÇÁ·Î±×·¥
+// ì‹œí—˜ ì ìˆ˜ë¥¼ ìž…ë ¥ë°›ì•„ 90 ~ 100ì ì€ A, 80 ~ 89ì ì€ B, 70 ~ 79ì ì€ C, 60 ~ 69ì ì€ D, ë‚˜ë¨¸ì§€ ì ìˆ˜ëŠ” Fë¥¼ ì¶œë ¥í•˜ëŠ” í”„ë¡œê·¸ëž¨
 #include <stdio.h>
 
 int main()
 {
     int score;
-    printf("½ÃÇè Á¡¼ö¸¦ ÀÔ·ÂÇÏ½Ã¿À: ");
+    printf("ì‹œí—˜ ì ìˆ˜ë¥¼ ìž…ë ¥í•˜ì‹œì˜¤: ");
     scanf("%d", &score);
     score = score / 10;
     switch (score)
