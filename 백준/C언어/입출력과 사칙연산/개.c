@@ -1,5 +1,5 @@
 // 10172
-// °³ Ãâ·Â
+// ê°œ ì¶œë ¥
 #include <stdio.h>
 
 int main(void)
