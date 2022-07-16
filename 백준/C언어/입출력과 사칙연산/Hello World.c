@@ -1,7 +1,7 @@
 // 2557
 // Hello World
-// C¾ð¾î
-// Hello World!¸¦ Ãâ·ÂÇÏ½Ã¿À.
+// Cì–¸ì–´
+// Hello World!ë¥¼ ì¶œë ¥í•˜ì‹œì˜¤.
 
 #include <stdio.h>
 
