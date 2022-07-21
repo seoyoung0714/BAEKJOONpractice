@@ -1,7 +1,7 @@
 // 8958
-// OXÄûÁî
-// C¾ð¾î
-// °¢ Å×½ºÆ® ÄÉÀÌ½º¸¶´Ù Á¡¼ö¸¦ Ãâ·ÂÇÏ½Ã¿À.
+// OXí€´ì¦ˆ
+// Cì–¸ì–´
+// ê° í…ŒìŠ¤íŠ¸ ì¼€ì´ìŠ¤ë§ˆë‹¤ ì ìˆ˜ë¥¼ ì¶œë ¥í•˜ì‹œì˜¤.
 
 #include <stdio.h>
 #include <string.h>
